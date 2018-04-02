@@ -22,7 +22,7 @@ Srinjoy Majumdar
 
 
 <!-- .slide: data-background-color="#000" data-background-image="./media/Beta_1-2.jpg" data-background-size="contain"-->
-<figcaption style="font-size: 15px; margin-top: 600px;"> Figure 2. PR2 Robot. Retrieved from http://www.willowgarage.com/sites/default/files/media/Beta-Media-2.jpg </figcaption>
+<figcaption style="font-size: 15px; margin-top: 600px;"> Figure 1. PR2 Robot. Retrieved from http://www.willowgarage.com/sites/default/files/media/Beta-Media-2.jpg </figcaption>
 
 
 
@@ -63,7 +63,7 @@ Srinjoy Majumdar
 **Reinforcement Learning:** *The paradigm of learning by trial-and-error, solely from rewards or punishments*
 <figure>
 	<img data-src="https://cdn-images-1.medium.com/max/1600/1*c3pEt4pFk0Mx684DDVsW-w.png" class="stretch" />
-	
+	<figcaption style="font-size: 15px"> Figure 2. Reinforcement Learning Diagram. Retrieved from https://i.stack.imgur.com/eoeSq.png </figcaption>	
 </figure>
 
 
