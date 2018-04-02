@@ -3,12 +3,13 @@ Srinjoy Majumdar
 
 
 
-<iframe class="stretch" data-src="https://www.youtube.com/embed/mOm0RIfiiGQ?start=71&end=90&mute=1&autoplay=1&rel=0"></iframe>
+<iframe height="600px" style="width:100%"  data-src="https://www.youtube.com/embed/mOm0RIfiiGQ?start=71&end=90&mute=1&autoplay=1&rel=0"></iframe>
+<figcaption style="font-size: 15px;">Retrieved from https://youtu.be/mOm0RIfiiGQ</figcaption>
 
 
 
-<iframe class="stretch" data-src="https://www.youtube.com/embed/Mk0AbjSIFLE?autoplay=1&rel=0&mute=1"></iframe>
-
+<iframe height="600px" style="width:100%"  data-src="https://www.youtube.com/embed/Mk0AbjSIFLE?autoplay=1&rel=0&mute=1"></iframe>
+<figcaption style="font-size: 15px;">Retrieved from https://youtu.be/Mk0AbjSIFLE</figcaption>
 
 
 <span style="color:#1b91ff">**Smart Robot:**</span> *An artificial intelligence (AI) system that can learn from its environment and its experience and build on its capabilities based on that knowledge.*
@@ -37,17 +38,14 @@ Srinjoy Majumdar
 
 
 **Kinesthetic Teaching**
-<iframe class="stretch" data-src="https://www.youtube.com/embed/W_gxLKSsSIE?start=10&end=18&rel=0&mute=1&autoplay=1"></iframe>
+<iframe height="500px" style="width:100%" data-src="https://www.youtube.com/embed/W_gxLKSsSIE?start=10&end=18&rel=0&mute=1&autoplay=1"></iframe>
+<figcaption style="font-size: 15px;">Retrieved from https://youtu.be/W_gxLKSsSIE</figcaption>
 
 
 
 **Kinesthetic Teaching**
-<iframe class="stretch" data-src="https://www.youtube.com/embed/W_gxLKSsSIE?start=82&end=93&rel=0&mute=1&autoplay=1"></iframe>
-
-
-**Teleoperation**
-<iframe class="stretch" data-src="https://www.youtube.com/embed/_2qcU4FcGyE?start=5&end=40&rel=0&mute=1"></iframe>
-
+<iframe height="500px" style="width:100%"  data-src="https://www.youtube.com/embed/W_gxLKSsSIE?start=82&end=93&rel=0&mute=1&autoplay=1"></iframe>
+<figcaption style="font-size: 15px;">Retrieved from https://youtu.be/W_gxLKSsSIE</figcaption>
 
 
 <p>**Sensors**</p>
@@ -69,4 +67,6 @@ Srinjoy Majumdar
 
 
 **Thank You**
-<iframe class="stretch" data-src="https://www.youtube.com/embed/fRj34o4hN4I?autoplay=1&mute=1&rel=0"></iframe>
+<iframe height="500px" style="width:100%"  data-src="https://www.youtube.com/embed/fRj34o4hN4I?autoplay=1&mute=1&rel=0"></iframe>
+<figcaption style="font-size: 15px;">Retrieved from https://youtu.be/fRj34o4hN4I</figcaption>
+
