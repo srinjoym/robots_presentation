@@ -48,6 +48,7 @@ Srinjoy Majumdar
 <figcaption style="font-size: 15px;">Retrieved from https://youtu.be/W_gxLKSsSIE</figcaption>
 
 
+
 <p>**Sensors**</p>
 <p>**Learning from Demonstration**</p>
 <p class="fragment highlight-blue">**Reinforcement Learning**</p>
