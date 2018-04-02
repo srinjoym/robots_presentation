@@ -12,6 +12,7 @@ Srinjoy Majumdar
 <figcaption style="font-size: 15px;">Retrieved from https://youtu.be/Mk0AbjSIFLE</figcaption>
 
 
+
 <span style="color:#1b91ff">**Smart Robot:**</span> *An artificial intelligence (AI) system that can learn from its environment and its experience and build on its capabilities based on that knowledge.*
 
 
