@@ -1,0 +1,106 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h3>How Robots Learn</h3>
+					Srinjoy Majumdar
+				</section>
+
+				<section>
+					<iframe class="stretch" data-src="https://www.youtube.com/embed/Mk0AbjSIFLE?autoplay=1&rel=0" ></iframe>
+				</section>
+
+				<section>
+					<img height="600" data-src="http://2.bp.blogspot.com/-ZNqPKj2ODps/TmEpK-lvhZI/AAAAAAAAEQI/r03l-qdbe9c/s1600/RUR-Capek-1920.jpg"/>
+				</section>
+				<section>
+					<img height="300" data-src="https://i.pinimg.com/originals/7d/73/42/7d7342dfd1905280ab972e5273890ee7.png"/>
+					<img height="300"  data-src="http://www.timgoldman.com/wp-content/uploads/2011/08/rosietherobotmail.jpg"/>
+					<img height="300" data-src="https://cdn.pastemagazine.com/www/articles/19-Best-100-Robots-in-Film-Robot-WallE.jpg"/>
+				</section>
+
+				<section data-markdown>
+					<textarea data-template>
+						**Smart Robot:** *An artificial intelligence (AI) system that can learn from its environment and its experience and build on its capabilities based on that knowledge.*
+					</textarea>
+				</section>
+
+
+				<section data-background-color="#000">
+					<section>
+						<h4 style="margin-top: 0">Robot Hardware Overview</h4>
+
+						<div class="row">
+							<div class="col-4">
+								<img style="border:none" data-src="./media/Beta_1-2.jpg"/>
+							</div>
+							<div class="col-8">
+								<ul>
+									<li class="fragment">Cost-Effective</li>
+									<li class="fragment">High Fidelity</li>
+								</ul>
+							</div>
+						</div>
+					</section>
+				</section>
+
+				<section data-markdown="example.md"
+						 data-separator="^\n\n\n"
+         				 data-separator-vertical="^\n\n"
+         				 data-separator-notes="^Note:">
+					<textarea data-template>
+					</textarea>
+					<section>
+						Kinesthetic Teaching
+
+					</section>
+				</section>
+			
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
